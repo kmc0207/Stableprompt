@@ -1,0 +1,6 @@
+transformers
+datasets
+trl
+peft
+wandb
+sentencepiece
