@@ -1,4 +1,5 @@
-# Official Code Implementation of StablePrompt
+# Official Code Implementation of StablePrompt(EMNLP2024)
+https://arxiv.org/abs/2410.07652
 
 To reproduce the experiments in the paper, follow the sequences below:
 
